@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="621eb732-80f3-47c0-9555-c54d9cd0ed87" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/vendas/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendas/src/main/java/io/github/renanhcunha/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendas/src/main/java/io/github/renanhcunha/AnimalConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendas/src/main/java/io/github/renanhcunha/Cachorro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendas/src/main/java/io/github/renanhcunha/Development.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendas/src/main/java/io/github/renanhcunha/Gato.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendas/src/main/java/io/github/renanhcunha/MinhaConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendas/src/main/java/io/github/renanhcunha/model/Cliente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendas/src/main/java/io/github/renanhcunha/repository/ClientesRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendas/src/main/java/io/github/renanhcunha/service/ClientesService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendas/src/main/resources/application-development.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendas/src/main/resources/application-production.properties" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1w9PUeRaRYYXKUrX8mNtHvq6nFl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Section 3 - Persistence and Data Access with Spring Data JPA" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="621eb732-80f3-47c0-9555-c54d9cd0ed87" name="Default Changelist" comment="" />
+      <created>1627867847773</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627867847773</updated>
+    </task>
+    <servers />
+  </component>
+</project>
